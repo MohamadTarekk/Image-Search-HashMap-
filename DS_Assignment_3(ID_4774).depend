@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1525577282 source:c:\users\lenovo\documents\code blocks\ds_assignment_3(id_4774)\assistingfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"AssistingFunctions.h"
+	"LinearProbingHashTable.h"
+	"Menus.h"
+	"SeparateChainingHashTable.h"
+	"Structs.h"
+
+1525561528 c:\users\lenovo\documents\code blocks\ds_assignment_3(id_4774)\assistingfunctions.h
+	"Structs.h"
+
+1525568090 c:\users\lenovo\documents\code blocks\ds_assignment_3(id_4774)\linearprobinghashtable.h
+	"Structs.h"
+
+1525207012 c:\users\lenovo\documents\code blocks\ds_assignment_3(id_4774)\structs.h
+	"Structs.h"
+
+1525207012 c:\users\lenovo\documents\code blocks\ds_assignment_3(id_4774)\menus.h
+
+1525568090 c:\users\lenovo\documents\code blocks\ds_assignment_3(id_4774)\separatechaininghashtable.h
+	"Structs.h"
+
+1525567104 source:c:\users\lenovo\documents\code blocks\ds_assignment_3(id_4774)\linearprobinghashtable.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"AssistingFunctions.h"
+	"LinearProbingHashTable.h"
+	"Menus.h"
+	"SeparateChainingHashTable.h"
+	"Structs.h"
+
+1526101811 source:c:\users\lenovo\documents\code blocks\ds_assignment_3(id_4774)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"AssistingFunctions.h"
+	"LinearProbingHashTable.h"
+	"Menus.h"
+	"SeparateChainingHashTable.h"
+	"Structs.h"
+
+1525561795 source:c:\users\lenovo\documents\code blocks\ds_assignment_3(id_4774)\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"AssistingFunctions.h"
+	"LinearProbingHashTable.h"
+	"Menus.h"
+	"SeparateChainingHashTable.h"
+	"Structs.h"
+
+1525579391 source:c:\users\lenovo\documents\code blocks\ds_assignment_3(id_4774)\separatechaininghashtable.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"AssistingFunctions.h"
+	"LinearProbingHashTable.h"
+	"Menus.h"
+	"SeparateChainingHashTable.h"
+	"Structs.h"
+
